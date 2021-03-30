@@ -1,2 +1,2 @@
 # BreastCancerCase
-Practical case using Pandas, Linear Regression tools
+Practical case using Pandas, Logistic Regression tools
